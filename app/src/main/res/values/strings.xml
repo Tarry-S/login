@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">login</string>
+    <string name="login">login</string>
+    <string name="username">Username</string>
+    <string name="new_account">New account</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="register">register</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
 </resources>
